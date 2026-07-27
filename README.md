@@ -8,13 +8,10 @@ Welcome to my repository workspace.
 
 ### GitHub Analytics
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=fromabhinavkr&theme=github_dark&show_icons=true&nocache=93847" alt="GitHub Stats" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fromabhinavkr&theme=github_dark&nocache=93847" alt="Top Languages" />
+    <td align="center">
+      <img src="metrics.svg" alt="Professional GitHub Metrics Graph" />
     </td>
   </tr>
 </table>
