@@ -1,12 +1,11 @@
-## Abhinav K R 
-
+# Abhinav K R 
 <div align="justify">
-Welcome to my repository workspace. 
+Welcome to my GitHub portfolio. This workspace serves as a central hub for my active engineering projects, focusing on digital IC design, ASIC implementation, real-time embedded systems and many other projects I worked on.
 </div>
 
 ---
 
-### GitHub Analytics
+# GitHub Analytics
 
 <table width="100%">
   <tr>
@@ -16,17 +15,6 @@ Welcome to my repository workspace.
   </tr>
 </table>
 
----
-
-### Highlighted Architectures & Codebases
-
-* **32-bit Pipelined RISC-V Processor Core**
-
-* **Embedded Systems Prototyping**
-
-* **YOLOv8 PCB Defect Detection**
-
-* **Analog Design & Layout**
 ---
 
 ### Technical Tooling
