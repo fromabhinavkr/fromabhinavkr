@@ -1,4 +1,4 @@
-## Abhinav K R | Hardware Architecture & Embedded Systems
+## Abhinav K R 
 
 <div align="justify">
 Welcome to my repository workspace. 
@@ -8,11 +8,9 @@ Welcome to my repository workspace.
 
 ### GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fromabhinavkr&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=333333" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fromabhinavkr&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333" alt="Top Languages" width="48%" />
-</p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fromabhinavkr&show_icons=true&theme=transparent&hide_border=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fromabhinavkr&layout=compact&theme=transparent&hide_border=true)
 ---
 
 ### Highlighted Architectures & Codebases
