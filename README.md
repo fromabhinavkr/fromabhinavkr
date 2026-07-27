@@ -8,9 +8,17 @@ Welcome to my repository workspace.
 
 ### GitHub Analytics
 
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=fromabhinavkr&theme=github_dark&show_icons=true&nocache=93847" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fromabhinavkr&theme=github_dark&nocache=93847" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fromabhinavkr&show_icons=true&theme=transparent&hide_border=true) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fromabhinavkr&layout=compact&theme=transparent&hide_border=true)
 ---
 
 ### Highlighted Architectures & Codebases
