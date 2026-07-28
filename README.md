@@ -1,6 +1,6 @@
 # Abhinav K R 
 <div align="justify">
-Welcome to my GitHub portfolio. This workspace serves as a central hub for my active engineering projects, focusing on digital IC design, ASIC implementation, real-time embedded systems and many other projects I worked on.
+Welcome to my GitHub portfolio. This serves as a space for my active engineering projects, focusing on digital IC design, ASIC implementation, real-time embedded systems and many other projects I worked on.
 </div>
 
 ---
