@@ -18,6 +18,6 @@ Welcome to my GitHub portfolio. This workspace serves as a central hub for my ac
 ---
 
 ### Technical Tooling
-* **Hardware Description:** Verilog
+* **HDL:** Verilog
 * **Software & Systems:** C, C++, Python
 * **EDA & Physical Design:** Cadence Genus, Innovus, Virtuoso, KiCad
